@@ -6,4 +6,5 @@ Current design, built in Figma. [See here.](https://www.figma.com/file/nTCZ1HR5Q
 
 ![Screenshot](design.png)
 
-
+## Development 
+Planning to use SwiftUI and Swift 
